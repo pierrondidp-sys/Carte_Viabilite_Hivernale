@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.273751,
+          48.824532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 134299001,
+        "osm_key": "railway",
+        "osm_value": "station",
+        "type": "house",
+        "postcode": "92130",
+        "countrycode": "FR",
+        "name": "Hôtel de Ville",
+        "street": "Square Bonaventure Leca",
+        "district": "Quartier Centre-Ville / Corentin Celton / Les Varennes",
+        "city": "Issy-les-Moulineaux",
+        "county": "Hauts-de-Seine",
+        "state": "Île-de-France",
+        "country": "France"
+      },
+      "id": "diEFY"
+    }
+  ]
+}
